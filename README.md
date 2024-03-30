@@ -1,1 +1,1 @@
-# excel-projects: i have created a completer dashboard analysing the coffee shop using excel . the analysis shows 1. the day wise , monthwise sales , location wise and top5 sold products in the shop ,showcasing potential insights to be used in further expanding of the buisness .
+# excel-projects: complete dashboard of coffee shop analysis.
